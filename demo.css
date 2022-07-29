@@ -1,0 +1,7 @@
+body {
+    background-color: #eee;
+  }
+
+  .done{
+    text-decoration: line-through;
+  }
